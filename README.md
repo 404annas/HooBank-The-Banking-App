@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 **HooBank - Your digital gateway to seamless banking!** 💰
+<br>
+<br>
+Experience HooBank, a powerful and intuitive app designed to transform your banking experience. With HooBank, you have full control over your finances—from tracking expenses and managing multiple accounts to setting savings goals and making instant transfers—all at your fingertips. Whether you’re managing personal finances or business accounts, HooBank offers modern tools to simplify your financial journey. Dive in to discover a secure, user-centered experience crafted to keep you ahead in today’s digital banking world. 📱✨
